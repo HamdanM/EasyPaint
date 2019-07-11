@@ -1,0 +1,3 @@
+/home/mohammad/bin/easypaint
+/home/mohammad/share/applications/easypaint.desktop
+/home/mohammad/share/pixmaps/easypaint_64.png

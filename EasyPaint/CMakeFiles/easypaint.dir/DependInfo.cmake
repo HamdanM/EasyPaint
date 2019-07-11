@@ -1,0 +1,118 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/mohammad/Downloads/EasyPaint/qrc_resources.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/qrc_resources.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/additionaltools.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/additionaltools.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/datasingleton.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/datasingleton.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/dialogs/effectsettingsdialog.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/dialogs/effectsettingsdialog.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/dialogs/moc_effectsettingsdialog.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/dialogs/moc_effectsettingsdialog.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/dialogs/moc_resizedialog.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/dialogs/moc_resizedialog.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/dialogs/moc_settingsdialog.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/dialogs/moc_settingsdialog.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/dialogs/moc_textdialog.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/dialogs/moc_textdialog.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/dialogs/resizedialog.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/dialogs/resizedialog.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/dialogs/settingsdialog.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/dialogs/settingsdialog.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/dialogs/textdialog.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/dialogs/textdialog.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/abstracteffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/abstracteffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/binarizationeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/binarizationeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/effectwithsettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/effectwithsettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/gammaeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/gammaeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/grayeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/grayeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_abstracteffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_abstracteffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_binarizationeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_binarizationeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_customeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_customeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_effectwithsettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_effectwithsettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_gammaeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_gammaeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_gaussianblureffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_gaussianblureffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_grayeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_grayeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_negativeeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_negativeeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/moc_sharpeneffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/moc_sharpeneffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/effects/negativeeffect.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/effects/negativeeffect.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/imagearea.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/imagearea.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/abstractinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/abstractinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/abstractselection.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/abstractselection.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/colorpickerinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/colorpickerinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/curvelineinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/curvelineinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/ellipseinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/ellipseinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/eraserinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/eraserinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/fillinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/fillinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/lineinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/lineinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/magnifierinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/magnifierinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_abstractinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_abstractinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_abstractselection.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_abstractselection.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_colorpickerinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_colorpickerinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_curvelineinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_curvelineinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_ellipseinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_ellipseinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_eraserinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_eraserinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_fillinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_fillinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_lineinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_lineinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_magnifierinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_magnifierinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_pencilinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_pencilinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_rectangleinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_rectangleinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_selectioninstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_selectioninstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_sprayinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_sprayinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/moc_textinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/moc_textinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/pencilinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/pencilinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/rectangleinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/rectangleinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/selectioninstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/selectioninstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/sprayinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/sprayinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/instruments/textinstrument.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/instruments/textinstrument.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/main.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/main.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/mainwindow.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/mainwindow.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/moc_additionaltools.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/moc_additionaltools.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/moc_datasingleton.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/moc_datasingleton.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/moc_easypaintenums.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/moc_easypaintenums.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/moc_imagearea.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/moc_imagearea.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/moc_mainwindow.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/moc_mainwindow.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/moc_undocommand.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/moc_undocommand.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/undocommand.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/undocommand.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/colorchooser.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/colorchooser.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/customfiltersettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/customfiltersettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/gaussianblurfiltersettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/gaussianblurfiltersettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/imagepreview.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/imagepreview.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_abstracteffectsettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_abstracteffectsettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_colorchooser.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_colorchooser.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_customfiltersettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_customfiltersettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_gaussianblurfiltersettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_gaussianblurfiltersettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_imagepreview.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_imagepreview.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_palettebar.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_palettebar.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_palettebutton.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_palettebutton.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_sharpenfiltersettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_sharpenfiltersettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_shortcutedit.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_shortcutedit.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/moc_toolbar.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/moc_toolbar.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/palettebar.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/palettebar.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/palettebutton.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/palettebutton.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/sharpenfiltersettings.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/sharpenfiltersettings.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/shortcutedit.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/shortcutedit.cpp.o"
+  "/home/mohammad/Downloads/EasyPaint/sources/widgets/toolbar.cpp" "/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir/sources/widgets/toolbar.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "QT_CORE_LIB"
+  "QT_GUI_LIB"
+  "QT_NO_DEBUG"
+  "QT_PRINTSUPPORT_LIB"
+  "QT_WIDGETS_LIB"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "."
+  "/usr/include/x86_64-linux-gnu/qt5"
+  "/usr/include/x86_64-linux-gnu/qt5/QtWidgets"
+  "/usr/include/x86_64-linux-gnu/qt5/QtGui"
+  "/usr/include/x86_64-linux-gnu/qt5/QtCore"
+  "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"
+  "/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

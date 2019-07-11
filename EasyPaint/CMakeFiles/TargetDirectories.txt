@@ -1,0 +1,7 @@
+/home/mohammad/Downloads/EasyPaint/CMakeFiles/install/strip.dir
+/home/mohammad/Downloads/EasyPaint/CMakeFiles/edit_cache.dir
+/home/mohammad/Downloads/EasyPaint/CMakeFiles/easypaint.dir
+/home/mohammad/Downloads/EasyPaint/CMakeFiles/list_install_components.dir
+/home/mohammad/Downloads/EasyPaint/CMakeFiles/install/local.dir
+/home/mohammad/Downloads/EasyPaint/CMakeFiles/rebuild_cache.dir
+/home/mohammad/Downloads/EasyPaint/CMakeFiles/install.dir
